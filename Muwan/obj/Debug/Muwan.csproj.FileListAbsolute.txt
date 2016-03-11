@@ -1,0 +1,13 @@
+F:\brothers\Muwan Synchroniser\Muwan\Muwan\bin\Debug\Muwan.exe.config
+F:\brothers\Muwan Synchroniser\Muwan\Muwan\bin\Debug\NLog.config
+F:\brothers\Muwan Synchroniser\Muwan\Muwan\bin\Debug\Muwan.exe
+F:\brothers\Muwan Synchroniser\Muwan\Muwan\bin\Debug\Muwan.pdb
+F:\brothers\Muwan Synchroniser\Muwan\Muwan\bin\Debug\Newtonsoft.Json.dll
+F:\brothers\Muwan Synchroniser\Muwan\Muwan\bin\Debug\NLog.dll
+F:\brothers\Muwan Synchroniser\Muwan\Muwan\bin\Debug\Newtonsoft.Json.xml
+F:\brothers\Muwan Synchroniser\Muwan\Muwan\bin\Debug\NLog.xml
+F:\brothers\Muwan Synchroniser\Muwan\Muwan\obj\Debug\Muwan.csprojResolveAssemblyReference.cache
+F:\brothers\Muwan Synchroniser\Muwan\Muwan\obj\Debug\Muwan.MuwanService.resources
+F:\brothers\Muwan Synchroniser\Muwan\Muwan\obj\Debug\Muwan.csproj.GenerateResource.Cache
+F:\brothers\Muwan Synchroniser\Muwan\Muwan\obj\Debug\Muwan.exe
+F:\brothers\Muwan Synchroniser\Muwan\Muwan\obj\Debug\Muwan.pdb
